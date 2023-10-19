@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.border {
+    border: 5px solid black;
+    width: 700px;
+}
+.red-border {
+    border-color: red;
+}
+
+.my-box {
+    background-color: blue;
+}

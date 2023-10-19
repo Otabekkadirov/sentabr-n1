@@ -1,0 +1,46 @@
+body {
+    background-color: #333;
+    color: #ddd;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: x-large;
+}
+
+h1 {
+    font-family: "Saint Carell Personal", sans-serif;
+    text-decoration: 5px double underline gold;
+    text-decoration-color: crimson;
+    text-decoration-thickness: 2px;
+
+    text-align: center;
+    text-transform: lowercase;
+    letter-spacing: 30px;
+}
+
+p {
+    font-family: "Helvatica", sans-serif;
+
+    font-size: 18px;
+
+    text-align: justify;
+
+    text-decoration: none;
+    /* text-transform: capitalize; */
+
+    font-style: normal;
+
+    /* font-weight: bolder; */
+
+    word-spacing: 3px;
+
+    text-indent: 100px;
+}
+
+a {
+    text-decoration: none;
+    color: crimson;
+}
+a:hover {
+    background-color: #ddd;
+    color: #333;
+}
